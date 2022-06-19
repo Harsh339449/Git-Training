@@ -1,2 +1,1 @@
-this is version 1
-change after first commit
+This is the first version
